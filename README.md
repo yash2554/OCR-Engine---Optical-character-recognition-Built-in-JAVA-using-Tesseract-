@@ -43,11 +43,8 @@ So now you can run the following main java-applet file:
 In this following directory we prepared testcase images samples so that you can test this project.
 
 
->>Authors
+>>Authors - 
 >>Yash Patel
 
->>Poojan Patel
->>Ishita Lad
->>Hemali Patel
 
->>Version 1.0
+>Version 1.0
